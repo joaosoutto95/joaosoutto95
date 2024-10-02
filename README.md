@@ -44,4 +44,3 @@
 <p>&nbsp;
   <img align="center" src="https://readme-stats-one-eta.vercel.app/api?username=joaosoutto95&include_all_commits=true&count_private=true&show_icons=true&locale=en" alt="joaosoutto95" />
 </p>
-<p><img align="center" src="https://readme-stats-one-eta.vercel.app/api?username=joaosoutto95&include_all_commits=true&count_private=true" alt="joaosoutto95" /></p>
