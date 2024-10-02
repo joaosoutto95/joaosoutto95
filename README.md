@@ -7,7 +7,7 @@ Hi there 👋, My name is João. I'm a Data Scientist specialized in real-world 
 
 <div style="display: inline_block"> <a href="https://github.com/joaosoutto95"> 
   <img height="200em" src="https://readme-stats-one-eta.vercel.app/api?username=joaosoutto95&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> 
-  <img height="200em" src="https://readme-stats-one-eta.vercel.app/api/top-langs/?username=joaosoutto95&layout=compact&theme=dracula&langs_count=10&count_private=true"/> 
+  <img height="200em" src="https://readme-stats-one-eta.vercel.app/api/top-langs/?username=joaosoutto95&layout=compact&theme=dracula&langs_count=10&include_all_commits=true&count_private=true"/> 
 </div> 
 
 <div style="display: inline_block">
