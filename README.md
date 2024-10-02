@@ -6,10 +6,10 @@ Hi there 👋, My name is João. I'm a Data Scientist specialized in real-world 
 ❤︎ My professional passions are problem-solving through code and data, storytelling through communication, and the freedom to create innovative solutions.
 
 <div style="display: inline_block"> <a href="https://github.com/joaosoutto95"> 
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=joaosoutto95&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> 
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaosoutto95&layout=compact&theme=dracula&langs_count=10&count_private=true"/> 
+  <img height="200em" src="https://readme-stats-one-eta.vercel.app/api?username=joaosoutto95&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> 
+  <img height="200em" src="https://readme-stats-one-eta.vercel.app/api/top-langs/?username=joaosoutto95&layout=compact&theme=dracula&langs_count=10&count_private=true"/> 
 </div> 
-  
+
 <div style="display: inline_block">
   <br> 
   <img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"> 
