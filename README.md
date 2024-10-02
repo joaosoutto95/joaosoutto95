@@ -39,8 +39,11 @@
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
 <p>
-  <img align="left" src="https://readme-stats-one-eta.vercel.app/api/top-langs?username=joaosoutto95&show_icons=true&hide_border=true&locale=en&layout=compact" alt="joaosoutto95" />
+  <img align="left" src="https://readme-stats-one-eta.vercel.app/api/top-langs?username=joaosoutto95&show_icons=true&hide_border=true&locale=en&layout=compact&count_private=true&token=${{ secrets.TOKEN_STATS }}" alt="joaosoutto95" />
 </p>
 <p>&nbsp;
   <img align="center" src="https://readme-stats-one-eta.vercel.app/api?username=joaosoutto95&include_all_commits=true&count_private=true&show_icons=true&locale=en" alt="joaosoutto95" />
+</p>
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joaosoutto95&count_private=true&token=${{ secrets.TOKEN_STATS }}" alt="joaosoutto95" />
 </p>
