@@ -9,6 +9,9 @@
 
 - 👁️ 3+ years **working with Computer Vision models**
 
+Custom Object Detection Trainer:
+https://colab.research.google.com/drive/1r2DnjKM__TVZapqAKPeZqg378tr-B5d8?usp=sharing#scrollTo=DJ-HqEKgyAfK
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/joao-pedro-soutto-chaves" target="blank">
