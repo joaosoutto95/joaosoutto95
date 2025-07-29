@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm João!</h1>
-<h3 align="center">I'm a Data Scientist specialized in real-world Computer Vision applications.</h3>
+<h3 align="center">I'm finding cool things using Data Science.</h3>
 
-- 🔥 I'm working at **Umgrauemeio as a Data Scientist focused on wildfire early detection**
+- 🔥 I'm working at **Nimble Gravity as a Senior Data Scientist Technical Consultant focused on DevOps and MLOps projects.**
 
 - ❤︎ My professional passions are **problem-solving through code and data, storytelling through communication, and the freedom to create innovative solutions.**
 
