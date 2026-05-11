@@ -17,7 +17,9 @@ https://colab.research.google.com/drive/1r2DnjKM__TVZapqAKPeZqg378tr-B5d8?usp=sh
 <a href="https://linkedin.com/in/joao-pedro-soutto-chaves" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joao-pedro-soutto-chaves" height="30" width="40" /></a>
 </p>
-
+<p>&nbsp;
+  <img align="center" src="https://readme-stats-one-eta.vercel.app/api?username=joaosoutto95&include_all_commits=true&count_private=true&show_icons=true&locale=en" alt="joaosoutto95" />
+</p>
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
@@ -39,7 +41,4 @@ https://colab.research.google.com/drive/1r2DnjKM__TVZapqAKPeZqg378tr-B5d8?usp=sh
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/></a>&nbsp;
 <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/></a>&nbsp;
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>
-</p>
-<p>&nbsp;
-  <img align="center" src="https://readme-stats-one-eta.vercel.app/api?username=joaosoutto95&include_all_commits=true&count_private=true&show_icons=true&locale=en" alt="joaosoutto95" />
 </p>
