@@ -42,5 +42,6 @@ https://colab.research.google.com/drive/1r2DnjKM__TVZapqAKPeZqg378tr-B5d8?usp=sh
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
 <p>&nbsp;
+  
   <img align="center" src="https://readme-stats-one-eta.vercel.app/api?username=joaosoutto95&include_all_commits=true&count_private=true&show_icons=true&locale=en" alt="joaosoutto95" />
 </p>
